@@ -58,13 +58,12 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-
 # Getting Started with Pana
 
 In the project directory, you can run:
 
-bash
-yarn start
+```bash
+yarn start```
 
 
 Runs the app in development mode.
@@ -73,15 +72,15 @@ Open http://localhost:3000 to view it in your browser.
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
-bash
-yarn test
+```bash
+yarn test```
 
 
 Launches the test runner in interactive watch mode.
 See the section about running tests for more information.
 
-bash
-yarn build
+```bash
+yarn build```
 
 
 Builds the app for production to the build folder.
@@ -92,8 +91,8 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-bash
-yarn eject
+```bash
+yarn eject```
 
 
 Note: this is a one-way operation. Once you eject, you can't go back!
@@ -130,13 +129,15 @@ This section has moved here: [Advanced Configuration](https://create-react-app.d
 
 This section has moved here: [Deployment](https://create-react-app.dev/docs/deployment).
 
-bash
-yarn build
+```bash
+yarn build```
 
 
 fails to minify.
 
 This section has moved here: [npm run build fails to minify](https://create-react-app.dev/docs/troubleshooting#npm-run-build-fails-to-minify).
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
