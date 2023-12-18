@@ -42,7 +42,7 @@ Join Pana today and redefine the way you experience travel. Your adventure await
 
 ## Tech Stack
 
-- Frontend: React, Vite, React Router
+- Frontend: React, Vite, React Router, Tailwind
 - Backend: MongoDB
 - Authentication: Custom authentication and authorization implementation
 - State Management: Advanced hook usage for state management
