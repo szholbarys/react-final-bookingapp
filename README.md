@@ -133,10 +133,6 @@ This section has moved here: [Advanced Configuration](https://create-react-app.d
 
 This section has moved here: [Deployment](https://create-react-app.dev/docs/deployment).
 
-```bash
-yarn build
-```
-
 
 fails to minify.
 
