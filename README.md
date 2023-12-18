@@ -62,8 +62,7 @@ Currently, two official plugins are available:
 
 In the project directory, you can run:
 
-```
-bash 
+```bash 
 yarn start
 ```
 
