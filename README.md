@@ -1,5 +1,3 @@
-# react-final-bookingapp
-
 # Explore the World with Pana: Your Gateway to Unique Accommodations 🌍✨
 Welcome to Pana, where your journey begins! 🚀
 
@@ -131,12 +129,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Contributors
 
-- [Your Name]
-- [Contributor 1]
-- [Contributor 2]
+- [Saken Zholbarys]
+- [Alaidar Bakdaulet]
+- [Kurtulush Erkezhan]
 
 ## Contact
 
-For inquiries or issues related to the project, please contact [Your Email Address].
+For inquiries or issues related to the project, please contact [sakenzholbarys@gmail.com].
 
 Thank you for choosing Pana for your accommodation needs! We hope you have a pleasant experience using our platform.
